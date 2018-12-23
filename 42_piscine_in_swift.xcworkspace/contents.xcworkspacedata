@@ -10,9 +10,9 @@
    </Group>
    <Group
       location = "container:"
-      name = "day03">
+      name = "day 03">
       <FileRef
-         location = "group:/Users/youzongyu/Desktop/git/Day03 List.playground">
+         location = "group:/Users/youzongyu/Desktop/git/Day 03 List.playground">
       </FileRef>
    </Group>
 </Workspace>
