@@ -5,14 +5,14 @@
       location = "container:"
       name = "day02">
       <FileRef
-         location = "container:/Users/youzongyu/Desktop/git/Day 02 List.playground">
+         location = "group:Day 02 List.playground">
       </FileRef>
    </Group>
    <Group
       location = "container:"
       name = "day 03">
       <FileRef
-         location = "group:/Users/youzongyu/Desktop/git/Day 03 List.playground">
+         location = "group:Day 03 List.playground">
       </FileRef>
    </Group>
 </Workspace>
