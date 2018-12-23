@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "day02">
+      <FileRef
+         location = "container:/Users/youzongyu/Desktop/git/Day 02 List.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "day03">
+      <FileRef
+         location = "group:/Users/youzongyu/Desktop/git/Day03 List.playground">
+      </FileRef>
+   </Group>
+</Workspace>
