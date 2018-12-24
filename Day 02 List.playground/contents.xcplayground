@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='false'/>
+<playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='list'/>
+        <page name='ex00 ft_print_alphabet'/>
+        <page name='ex01 ft_print_reverse_alphabet'/>
+        <page name='ex02 ft_print_numbers'/>
+        <page name='ex03 ft_is_negative'/>
+        <page name='ex04 ft_print_comb'/>
+        <page name='ex05 ft_print_comb2'/>
+        <page name='ex06  ft_putnbr'/>
+    </pages>
+</playground>
