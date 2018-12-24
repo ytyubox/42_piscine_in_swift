@@ -9,5 +9,6 @@
         <page name='ex04 ft_print_comb'/>
         <page name='ex05 ft_print_comb2'/>
         <page name='ex06  ft_putnbr'/>
+        <page name='ex07 ft_print_combn'/>
     </pages>
 </playground>
