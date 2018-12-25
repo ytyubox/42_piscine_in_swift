@@ -3,5 +3,6 @@
     <pages>
         <page name='list'/>
         <page name='ex00  ft_ft'/>
+        <page name='ex01 ft_ultimate_ft'/>
     </pages>
 </playground>
