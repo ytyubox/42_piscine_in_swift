@@ -33,17 +33,19 @@ func ft_print_combn(_ n:Int)
 	
 	while (n > 1) && (index < 9)
 	{
-		digitArray[index] = (index < n) ? index : -1;
+		digitArray[index] = (index < n) ? index : -1
 		index += 1
 	}
 	while (true)
 	{
+		///打印數字
 		index = 0
 		while index < n
 		{
 			ft_putchar(uint0 + uint8(digitArray[index]))
 			index += 1
 		}
+		///打印間隔符
 		if digitArray[0] < 10 - n
 		{
 			ft_putchar(UInt8(ascii: ","))
@@ -59,13 +61,13 @@ func ft_print_combn(_ n:Int)
 		{
 			if (digitArray [index] < 10 - n + index)
 			{
-				digitArray[index] += 1;
+				digitArray[index] += 1
 				while (index < n - 1)
 				{
-					digitArray[index + 1] = digitArray[index] + 1;
-					index += 1;
+					digitArray[index + 1] = digitArray[index] + 1
+					index += 1
 				}
-				break;
+				break
 			}
 			index -= 1
 		}
