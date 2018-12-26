@@ -11,5 +11,6 @@
         <page name='ex 06 ft_strlen'/>
         <page name='ex 07 ft_strrev'/>
         <page name='ex08 ft_atoi'/>
+        <page name='ex09 ft_sort_integer_table'/>
     </pages>
 </playground>
