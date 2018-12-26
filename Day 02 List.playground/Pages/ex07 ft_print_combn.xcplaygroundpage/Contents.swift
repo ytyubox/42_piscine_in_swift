@@ -2,7 +2,7 @@
 
 import Foundation
 /*:
-Exercise 07 : ft_print_combn
+# Exercise 07 : ft_print_combn
 
 Turn-in directory : ex07/
 
