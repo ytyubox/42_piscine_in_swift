@@ -8,5 +8,7 @@
         <page name='ex03 ft_div_mod'/>
         <page name='ex04 ft_ultimate_div_mod'/>
         <page name='ex05 ft_putstr'/>
+        <page name='ex 06 ft_strlen'/>
+        <page name='ex 07 ft_strrev'/>
     </pages>
 </playground>
