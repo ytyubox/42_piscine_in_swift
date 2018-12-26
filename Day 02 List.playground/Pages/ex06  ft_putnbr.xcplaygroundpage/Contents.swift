@@ -4,7 +4,7 @@ import Foundation
 
 /*:
 
-Exercise 06 : ft_putnbr
+# Exercise 06 : ft_putnbr
 
 Turn-in directory : ex06/
 
