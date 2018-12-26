@@ -10,5 +10,6 @@
         <page name='ex05 ft_putstr'/>
         <page name='ex 06 ft_strlen'/>
         <page name='ex 07 ft_strrev'/>
+        <page name='ex08 ft_atoi'/>
     </pages>
 </playground>
