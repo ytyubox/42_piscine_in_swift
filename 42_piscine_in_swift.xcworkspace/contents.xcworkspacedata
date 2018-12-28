@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <Group
-      location = "container:"
-      name = "day02">
-      <FileRef
-         location = "group:Day 02 List.playground">
-      </FileRef>
-   </Group>
-   <Group
-      location = "container:"
-      name = "day 03">
-      <FileRef
-         location = "group:Day 03 List.playground">
-      </FileRef>
-   </Group>
+   <FileRef
+      location = "group:Day 02 List.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Day 03 List.playground">
+   </FileRef>
 </Workspace>
